@@ -1,2 +1,2 @@
 # Snakes-and-Ladders
-A 2-Player GUI application of the famous Snakes and Ladders game!
+This application is built using C++/CLI framework using Microsoft Windows Forms. It uses the very basic concepts of Object Oriented Programming and has a simple, user-friendly interface. The files are included in the repository.
